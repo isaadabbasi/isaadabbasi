@@ -3,7 +3,7 @@
 <div>
 <div align="left">
 
-<img src="./assets/stackbreakdown-t.png"  align="right" alt="Tech Stack" width="400" height="400"></img>
+<img src="./assets/breakdown-2-bgrm.png"  align="right" alt="Tech Stack" width="500" height="400"></img>
 
 Over 7 years of experience of working in domains like backend, frontend, infrastructure, and blockchain with different local and international teams and delivering secure, scalable, and innovative solutions. 
 
