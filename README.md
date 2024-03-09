@@ -2,7 +2,10 @@
 
 <div>
 <div align="left">
-Over 7 years of experience of working in domains like backend development, frontend development, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
+
+<img src="./assets/stackbreakdown-t.png"  align="right" alt="Tech Stack" width="400" height="400"></img>
+
+Over 7 years of experience of working in domains like backend, frontend, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
 
 ---
 
@@ -16,11 +19,6 @@ Over 7 years of experience of working in domains like backend development, front
 - Experience with smart contract development and testing.
 - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
 
-</div>  
-<img src="./assets/stackbreakdown-t.png"  align="right" alt="Tech Stack" width="400" height="400"></img>
-</div>
-
-<div>
 
 <b>Backend Technologies: (4+ years)</b>
 - Proficient in Node.js, Redis, Nestjs, Fastify, PostgreSQL, TypeORM, Apollo GraphQL, Serverless.
@@ -37,4 +35,6 @@ Over 7 years of experience of working in domains like backend development, front
 - Grip on React.js, Next.js and Angular with TypeScript, and Sass.
 - Follows best practices of application level state, data layer, design system, performance and content delivery.
 - Ability to develop intuitive and visually appealing user interfaces.
-</div> 
+
+</div>
+</div>
