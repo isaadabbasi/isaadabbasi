@@ -1,29 +1,23 @@
 ## Tech Stack Break down
-<style>
-  #info-1 {
-    float:left;
-    width:60%;
-  }
-</style>
+
 <div>
-  <div id="info-1">
-  Over 7 years of experience of working in domains like backend development, frontend development, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
+<div align="left">
+Over 7 years of experience of working in domains like backend development, frontend development, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
 
-  ---
+---
 
-  <b>Languages: </b>
-  - TypeScript/JavaScript: 7+ years of experience
-  - Solidity: 1+ year of experience
-  - Golang: >1 year of experience
+<b>Languages: </b>
+ - TypeScript/JavaScript: 7+ years of experience
+ - Solidity: 1+ year of experience
+ - Golang: >1 year of experience
 
-  <b>Blockchain with Ethereum (2+ years of experience):</b>
-  - Skilled in Solidity, Foundry, Hardhat, and Ganache.
-  - Experience with smart contract development and testing.
-  - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
+<b>Blockchain with Ethereum (2+ years of experience):</b>
+- Skilled in Solidity, Foundry, Hardhat, and Ganache.
+- Experience with smart contract development and testing.
+- Knowledge of blockchain ecosystem, how decentralised applications applications works. 
 
-  </div>  
-  <img src="./assets/stackbreakdown-t.png" style="float: right; width: 40%">
-  </img>
+</div>  
+<img src="./assets/stackbreakdown-t.png"  align="right" alt="Tech Stack" width="400" height="400"></img>
 </div>
 
 <div>
