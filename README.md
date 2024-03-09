@@ -1,7 +1,7 @@
 ## Tech Stack Break down
 
 <div>
-<div style="float: left; width: 60%">
+<div style="float: left; width: 60%;">
 Over 7 years of experience of working in domains like backend development, frontend development, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
 
 ---
@@ -15,6 +15,13 @@ Over 7 years of experience of working in domains like backend development, front
 - Skilled in Solidity, Foundry, Hardhat, and Ganache.
 - Experience with smart contract development and testing.
 - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
+
+</div>  
+<img src="./assets/stackbreakdown-t.png" style="float: right; width: 40%"></img>
+</div>
+
+<br />
+<div>
 
 <b>Backend Technologies: (4+ years)</b>
 - Proficient in Node.js, Redis, Nestjs, Fastify, PostgreSQL, TypeORM, Apollo GraphQL, Serverless.
@@ -31,6 +38,4 @@ Over 7 years of experience of working in domains like backend development, front
 - Grip on React.js, Next.js and Angular with TypeScript, and Sass.
 - Follows best practices of application level state, data layer, design system, performance and content delivery.
 - Ability to develop intuitive and visually appealing user interfaces.
-</div>  
-<img src="./assets/stackbreakdown-t.png" style="float: right; width: 40%"></img>
-</div>
+</div> 
