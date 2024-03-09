@@ -1,11 +1,11 @@
-## Tech Stack Break down
+### "Saad Abbasi" WHO? 🤔💭
 
 <div>
 <div align="left">
 
 <img src="./assets/stackbreakdown-t.png"  align="right" alt="Tech Stack" width="400" height="400"></img>
 
-Over 7 years of experience of working in domains like backend, frontend, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
+Over 7 years of experience of working in domains like backend, frontend, infrastructure, and blockchain with different local and international teams and delivering secure, scalable, and innovative solutions. 
 
 ---
 
@@ -14,7 +14,7 @@ Over 7 years of experience of working in domains like backend, frontend, infrast
  - Solidity: 1+ year of experience
  - Golang: >1 year of experience
 
-<b>Blockchain with Ethereum (2+ years of experience):</b>
+<b>Web3 with Ethereum (2+ years of experience):</b>
 - Skilled in Solidity, Foundry, Hardhat, and Ganache.
 - Experience with smart contract development and testing.
 - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
