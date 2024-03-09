@@ -19,6 +19,11 @@ Over 7 years of experience of working in domains like backend, frontend, infrast
 - Experience with smart contract development and testing.
 - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
 
+<b>Frontend Technologies: (4+ years)</b>
+- Grip on React.js, Next.js and Angular with TypeScript, and Sass.
+- Comfortable with any UIKit Bootstrap, Material Design, SemanticUI, Tailwind or ShadCN.
+- Follows best practices of application level state, data layer, design system, performance and content delivery.
+- Ability to develop intuitive and visually appealing user interfaces with minimal bundle size and performance overhead.
 
 <b>Backend Technologies: (4+ years)</b>
 - Proficient in Node.js, Hono, Redis, Nestjs, Fastify, PostgreSQL, TypeORM, Apollo GraphQL, Serverless.
@@ -32,11 +37,13 @@ Over 7 years of experience of working in domains like backend, frontend, infrast
 - Able to build and scale containerised services and microservices using Docker.
 - Skilled in automating workflows using GitHub Actions.
 
-<b>Frontend Technologies: (4+ years)</b>
-- Grip on React.js, Next.js and Angular with TypeScript, and Sass.
-- Comfortable with any UIKit Bootstrap, Material Design, SemanticUI, Tailwind or ShadCN.
-- Follows best practices of application level state, data layer, design system, performance and content delivery.
-- Ability to develop intuitive and visually appealing user interfaces with minimal bundle size and performance overhead.
 
 </div>
 </div>
+
+###  Want to connect or have one-to-one? Yup! I got ya.
+
+<p>
+<a href="https://www.linkedin.com/in/isaadabbasi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150" height=43 style="border-radius: 8px" /></a> &nbsp;
+<a href="https://www.buymeacoffee.com/isaadabbasi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" style="border-radius: 8px"></a>
+</p>
