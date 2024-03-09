@@ -1,7 +1,7 @@
 ## Tech Stack Break down
 
 <div>
-<div style="float: left; width: 60%;">
+<span style="float: left; width: 60%;">
 Over 7 years of experience of working in domains like backend development, frontend development, infrastructure, and blockchain and delivering secure, scalable, and innovative solutions. Feel free to connect with me.
 
 ---
@@ -16,11 +16,10 @@ Over 7 years of experience of working in domains like backend development, front
 - Experience with smart contract development and testing.
 - Knowledge of blockchain ecosystem, how decentralised applications applications works. 
 
-</div>  
+</span>  
 <img src="./assets/stackbreakdown-t.png" style="float: right; width: 40%"></img>
 </div>
 
-<br />
 <div>
 
 <b>Backend Technologies: (4+ years)</b>
